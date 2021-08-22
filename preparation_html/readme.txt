@@ -12,5 +12,5 @@ https://htmlpreview.github.io/?https://github.com/paulati/arabidopsis_phospho/bl
 Union
 https://htmlpreview.github.io/?https://github.com/paulati/arabidopsis_phospho/blob/master/preparation_html/4_union.html
 
-ROC MusteDeep
+ROC MusiteDeep
 https://htmlpreview.github.io/?https://github.com/paulati/arabidopsis_phospho/blob/master/preparation_html/roc_musiteDeep.html
