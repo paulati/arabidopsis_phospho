@@ -1,0 +1,306 @@
+mf_experimental_vs_all	mf_predOr_vs_all	mf_union_exp_predOr_vs_all	cc_experimental_vs_all	cc_predOr_vs_all	cc_union_exp_predOr_vs_all	bp_experimental_vs_all	bp_predOr_vs_all	bp_union_exp_predOr_vs_all
+GO:0097367_carbohydrate derivative binding	1	1	1	0	0	0	0	0	0
+GO:0036094_small molecule binding	1	1	1	0	0	0	0	0	0
+GO:0016817_hydrolase activity, acting on acid anhyd...	1	1	1	0	0	0	0	0	0
+GO:0043168_anion binding	1	1	1	0	0	0	0	0	0
+GO:0005488_binding	1	1	1	0	0	0	0	0	0
+GO:1901265_nucleoside phosphate binding	1	1	1	0	0	0	0	0	0
+GO:0097159_organic cyclic compound binding	1	1	1	0	0	0	0	0	0
+GO:0016772_transferase activity, transferring phosp...	1	1	1	0	0	0	0	0	0
+GO:1901363_heterocyclic compound binding	1	1	1	0	0	0	0	0	0
+GO:0004672_protein kinase activity	1	1	1	0	0	0	0	0	0
+GO:0003723_RNA binding	1	1	1	0	0	0	0	0	0
+GO:0043167_ion binding	1	1	1	0	0	0	0	0	0
+GO:0140096_catalytic activity, acting on a protein	1	1	1	0	0	0	0	0	0
+GO:0008092_cytoskeletal protein binding	1	1	1	0	0	0	0	0	0
+GO:0016773_phosphotransferase activity, alcohol gro...	1	1	1	0	0	0	0	0	0
+GO:0016799_hydrolase activity, hydrolyzing N-glycos...	1	1	1	0	0	0	0	0	0
+GO:0000166_nucleotide binding	1	1	1	0	0	0	0	0	0
+GO:0035639_purine ribonucleoside triphosphate bindi...	1	1	1	0	0	0	0	0	0
+GO:0016740_transferase activity	1	1	1	0	0	0	0	0	0
+GO:0016301_kinase activity	1	1	1	0	0	0	0	0	0
+GO:0003887_DNA-directed DNA polymerase activity	1	1	1	0	0	0	0	0	0
+GO:0005516_calmodulin binding	1	1	1	0	0	0	0	0	0
+GO:0032553_ribonucleotide binding	1	1	1	0	0	0	0	0	0
+GO:0005085_guanyl-nucleotide exchange factor activi...	1	1	1	0	0	0	0	0	0
+GO:0042393_histone binding	1	1	1	0	0	0	0	0	0
+GO:0003729_mRNA binding	1	0	0	0	0	0	0	0	0
+GO:0042803_protein homodimerization activity	1	0	1	0	0	0	0	0	0
+GO:0016830_carbon-carbon lyase activity	1	0	0	0	0	0	0	0	0
+GO:0019904_protein domain specific binding	1	0	0	0	0	0	0	0	0
+GO:0003774_motor activity	1	0	0	0	0	0	0	0	0
+GO:0060089_molecular transducer activity	1	1	1	0	0	0	0	0	0
+GO:0008047_enzyme activator activity	1	0	1	0	0	0	0	0	0
+GO:0015399_primary active transmembrane transporter...	1	1	1	0	0	0	0	0	0
+GO:0060589_nucleoside-triphosphatase regulator acti...	1	0	0	0	0	0	0	0	0
+GO:0042802_identical protein binding	1	1	1	0	0	0	0	0	0
+GO:0019899_enzyme binding	1	0	0	0	0	0	0	0	0
+GO:0017076_purine nucleotide binding	1	1	1	0	0	0	0	0	0
+GO:0042578_phosphoric ester hydrolase activity	1	1	1	0	0	0	0	0	0
+GO:0016614_oxidoreductase activity, acting on CH-OH...	1	0	0	0	0	0	0	0	0
+GO:0016759_cellulose synthase activity	1	1	1	0	0	0	0	0	0
+GO:0008270_zinc ion binding	1	0	1	0	0	0	0	0	0
+GO:0097472_cyclin-dependent protein kinase activity	1	0	0	0	0	0	0	0	0
+GO:0008242_omega peptidase activity	1	0	0	0	0	0	0	0	0
+GO:0005215_transporter activity	1	0	0	0	0	0	0	0	0
+GO:0005216_ion channel activity	1	1	1	0	0	0	0	0	0
+GO:0045182_translation regulator activity	1	0	0	0	0	0	0	0	0
+GO:0140297_DNA-binding transcription factor binding	1	0	0	0	0	0	0	0	0
+GO:0140034_methylation-dependent protein binding	1	0	0	0	0	0	0	0	0
+GO:0004525_ribonuclease III activity	1	0	0	0	0	0	0	0	0
+GO:0004693_cyclin-dependent protein serine/threonin...	1	0	0	0	0	0	0	0	0
+GO:0004564_beta-fructofuranosidase activity	1	0	0	0	0	0	0	0	0
+GO:0015079_potassium ion transmembrane transporter ...	1	0	0	0	0	0	0	0	0
+GO:0090599_alpha-glucosidase activity	1	0	0	0	0	0	0	0	0
+GO:0051020_GTPase binding	1	1	1	0	0	0	0	0	0
+GO:0030276_clathrin binding	1	0	0	0	0	0	0	0	0
+GO:0070122_isopeptidase activity	1	0	0	0	0	0	0	0	0
+GO:0008237_metallopeptidase activity	1	0	0	0	0	0	0	0	0
+GO:0003682_chromatin binding	1	1	1	0	0	0	0	0	0
+GO:0005524_ATP binding	0	1	1	0	0	0	0	0	0
+GO:0032559_adenyl ribonucleotide binding	0	1	1	0	0	0	0	0	0
+GO:0030554_adenyl nucleotide binding	0	1	1	0	0	0	0	0	0
+GO:0038023_signaling receptor activity	0	1	1	0	0	0	0	0	0
+GO:0004674_protein serine/threonine kinase activity	0	1	1	0	0	0	0	0	0
+GO:0016760_cellulose synthase (UDP-forming) activit...	0	1	1	0	0	0	0	0	0
+GO:0140110_transcription regulator activity	0	1	1	0	0	0	0	0	0
+GO:0052866_phosphatidylinositol phosphate phosphata...	0	1	1	0	0	0	0	0	0
+GO:0140030_modification-dependent protein binding	0	1	1	0	0	0	0	0	0
+GO:0005261_cation channel activity	0	1	1	0	0	0	0	0	0
+GO:0003724_RNA helicase activity	0	1	1	0	0	0	0	0	0
+GO:0004175_endopeptidase activity	0	1	0	0	0	0	0	0	0
+GO:0016887_ATPase activity	0	1	0	0	0	0	0	0	0
+GO:0000978_RNA polymerase II cis-regulatory region ...	0	1	1	0	0	0	0	0	0
+GO:0017056_structural constituent of nuclear pore	0	1	0	0	0	0	0	0	0
+GO:0008017_microtubule binding	0	1	0	0	0	0	0	0	0
+GO:0005886_plasma membrane	0	0	0	1	1	1	0	0	0
+GO:0005622_intracellular	0	0	0	1	1	1	0	0	0
+GO:0005829_cytosol	0	0	0	1	1	1	0	0	0
+GO:0043226_organelle	0	0	0	1	1	1	0	0	0
+GO:0071944_cell periphery	0	0	0	1	1	1	0	0	0
+GO:0005737_cytoplasm	0	0	0	1	1	1	0	0	0
+GO:0032991_protein-containing complex	0	0	0	1	1	1	0	0	0
+GO:0031974_membrane-enclosed lumen	0	0	0	1	1	1	0	0	0
+GO:0048046_apoplast	0	0	0	1	1	1	0	0	0
+GO:0005634_nucleus	0	0	0	1	1	1	0	0	0
+GO:0030054_cell junction	0	0	0	1	1	1	0	0	0
+GO:0055044_symplast	0	0	0	1	1	1	0	0	0
+GO:0099080_supramolecular complex	0	0	0	1	1	1	0	0	0
+GO:0043228_non-membrane-bounded organelle	0	0	0	1	1	1	0	0	0
+GO:0016021_integral component of membrane	0	0	0	1	1	1	0	0	0
+GO:0043232_intracellular non-membrane-bounded organ...	0	0	0	1	0	0	0	0	0
+GO:0098805_whole membrane	0	0	0	1	0	1	0	0	0
+GO:0043233_organelle lumen	0	0	0	1	1	1	0	0	0
+GO:0009532_plastid stroma	0	0	0	1	1	1	0	0	0
+GO:0070013_intracellular organelle lumen	0	0	0	1	1	1	0	0	0
+GO:0031981_nuclear lumen	0	0	0	1	1	1	0	0	0
+GO:0005654_nucleoplasm	0	0	0	1	1	1	0	0	0
+GO:0098588_bounding membrane of organelle	0	0	0	1	1	1	0	0	0
+GO:0012505_endomembrane system	0	0	0	1	0	0	0	0	0
+GO:0005875_microtubule associated complex	0	0	0	1	1	1	0	0	0
+GO:0010287_plastoglobule	0	0	0	1	1	1	0	0	0
+GO:0009524_phragmoplast	0	0	0	1	0	0	0	0	0
+GO:0005856_cytoskeleton	0	0	0	1	1	0	0	0	0
+GO:0016604_nuclear body	0	0	0	1	1	1	0	0	0
+GO:0009526_plastid envelope	0	0	0	1	1	1	0	0	0
+GO:0031984_organelle subcompartment	0	0	0	1	1	1	0	0	0
+GO:0010319_stromule	0	0	0	1	1	1	0	0	0
+GO:0009504_cell plate	0	0	0	1	1	0	0	0	0
+GO:0009570_chloroplast stroma	0	0	0	1	1	1	0	0	0
+GO:0070062_extracellular exosome	0	0	0	1	0	0	0	0	0
+GO:0031975_envelope	0	0	0	1	1	1	0	0	0
+GO:0042788_polysomal ribosome	0	0	0	1	0	0	0	0	0
+GO:0005887_integral component of plasma membrane	0	0	0	1	0	0	0	0	0
+GO:0098590_plasma membrane region	0	0	0	1	0	0	0	0	0
+GO:0009579_thylakoid	0	0	0	1	1	1	0	0	0
+GO:0005741_mitochondrial outer membrane	0	0	0	1	0	0	0	0	0
+GO:0009941_chloroplast envelope	0	0	0	1	1	1	0	0	0
+GO:0048475_coated membrane	0	0	0	1	0	0	0	0	0
+GO:0030133_transport vesicle	0	0	0	1	0	0	0	0	0
+GO:0005938_cell cortex	0	0	0	1	0	0	0	0	0
+GO:0031965_nuclear membrane	0	0	0	1	1	1	0	0	0
+GO:0060187_cell pole	0	0	0	1	0	0	0	0	0
+GO:0019867_outer membrane	0	0	0	1	0	1	0	0	0
+GO:0097708_intracellular vesicle	0	0	0	1	0	0	0	0	0
+GO:0005635_nuclear envelope	0	0	0	1	0	0	0	0	0
+GO:0012506_vesicle membrane	0	0	0	1	0	0	0	0	0
+GO:0005881_cytoplasmic microtubule	0	0	0	1	0	0	0	0	0
+GO:0098687_chromosomal region	0	0	0	1	0	0	0	0	0
+GO:0030117_membrane coat	0	0	0	1	0	0	0	0	0
+GO:0098807_chloroplast thylakoid membrane protein c...	0	0	0	1	0	0	0	0	0
+GO:0000785_chromatin	0	0	0	1	1	1	0	0	0
+GO:0034357_photosynthetic membrane	0	0	0	1	1	1	0	0	0
+GO:0034399_nuclear periphery	0	0	0	1	0	0	0	0	0
+GO:0045261_proton-transporting ATP synthase complex...	0	0	0	1	0	0	0	0	0
+GO:0031410_cytoplasmic vesicle	0	0	0	1	0	0	0	0	0
+GO:0080008_Cul4-RING E3 ubiquitin ligase complex	0	0	0	1	0	0	0	0	0
+GO:0036464_cytoplasmic ribonucleoprotein granule	0	0	0	1	0	0	0	0	0
+GO:0005730_nucleolus	0	0	0	1	0	0	0	0	0
+GO:0009536_plastid	0	0	0	0	1	1	0	0	0
+GO:0043229_intracellular organelle	0	0	0	0	1	1	0	0	0
+GO:0005694_chromosome	0	0	0	0	1	1	0	0	0
+GO:0042170_plastid membrane	0	0	0	0	1	0	0	0	0
+GO:0043231_intracellular membrane-bounded organelle	0	0	0	0	1	1	0	0	0
+GO:1990234_transferase complex	0	0	0	0	1	0	0	0	0
+GO:0099023_vesicle tethering complex	0	0	0	0	0	1	0	0	0
+GO:0005657_replication fork	0	0	0	0	0	1	0	0	0
+GO:0009987_cellular process	0	0	0	0	0	0	1	1	1
+GO:0006793_phosphorus metabolic process	0	0	0	0	0	0	1	1	1
+GO:0006807_nitrogen compound metabolic process	0	0	0	0	0	0	1	1	1
+GO:0044237_cellular metabolic process	0	0	0	0	0	0	1	1	1
+GO:0036211_protein modification process	0	0	0	0	0	0	1	1	1
+GO:0006468_protein phosphorylation	0	0	0	0	0	0	1	1	1
+GO:0006996_organelle organization	0	0	0	0	0	0	1	1	1
+GO:0009617_response to bacterium	0	0	0	0	0	0	1	1	1
+GO:0071704_organic substance metabolic process	0	0	0	0	0	0	1	1	1
+GO:0042742_defense response to bacterium	0	0	0	0	0	0	1	1	1
+GO:0050896_response to stimulus	0	0	0	0	0	0	1	1	1
+GO:0065007_biological regulation	0	0	0	0	0	0	1	1	1
+GO:0007049_cell cycle	0	0	0	0	0	0	1	1	1
+GO:0044238_primary metabolic process	0	0	0	0	0	0	1	1	1
+GO:0051179_localization	0	0	0	0	0	0	1	0	0
+GO:0050789_regulation of biological process	0	0	0	0	0	0	1	1	1
+GO:0007017_microtubule-based process	0	0	0	0	0	0	1	1	1
+GO:0043412_macromolecule modification	0	0	0	0	0	0	1	1	1
+GO:0022402_cell cycle process	0	0	0	0	0	0	1	1	1
+GO:0016192_vesicle-mediated transport	0	0	0	0	0	0	1	0	0
+GO:0048519_negative regulation of biological proces...	0	0	0	0	0	0	1	1	1
+GO:0006928_movement of cell or subcellular componen...	0	0	0	0	0	0	1	1	1
+GO:0009892_negative regulation of metabolic process	0	0	0	0	0	0	1	1	1
+GO:0006396_RNA processing	0	0	0	0	0	0	1	1	1
+GO:0016071_mRNA metabolic process	0	0	0	0	0	0	1	1	0
+GO:0051716_cellular response to stimulus	0	0	0	0	0	0	1	1	1
+GO:0071840_cellular component organization or bioge...	0	0	0	0	0	0	1	1	1
+GO:0010629_negative regulation of gene expression	0	0	0	0	0	0	1	1	1
+GO:0006464_cellular protein modification process	0	0	0	0	0	0	1	1	1
+GO:0045184_establishment of protein localization	0	0	0	0	0	0	1	1	1
+GO:0016310_phosphorylation	0	0	0	0	0	0	1	1	1
+GO:0051301_cell division	0	0	0	0	0	0	1	1	1
+GO:0051640_organelle localization	0	0	0	0	0	0	1	1	1
+GO:0009628_response to abiotic stimulus	0	0	0	0	0	0	1	1	1
+GO:0051234_establishment of localization	0	0	0	0	0	0	1	1	1
+GO:0044267_cellular protein metabolic process	0	0	0	0	0	0	1	0	0
+GO:0019538_protein metabolic process	0	0	0	0	0	0	1	1	1
+GO:0010605_negative regulation of macromolecule met...	0	0	0	0	0	0	1	1	0
+GO:0044260_cellular macromolecule metabolic process	0	0	0	0	0	0	1	1	1
+GO:0009737_response to abscisic acid	0	0	0	0	0	0	1	0	0
+GO:0042886_amide transport	0	0	0	0	0	0	1	1	1
+GO:0140352_export from cell	0	0	0	0	0	0	1	0	0
+GO:0015833_peptide transport	0	0	0	0	0	0	1	1	1
+GO:0032501_multicellular organismal process	0	0	0	0	0	0	1	1	1
+GO:0016458_gene silencing	0	0	0	0	0	0	1	1	1
+GO:0006096_glycolytic process	0	0	0	0	0	0	1	0	0
+GO:0032502_developmental process	0	0	0	0	0	0	1	1	1
+GO:1901564_organonitrogen compound metabolic proces...	0	0	0	0	0	0	1	0	0
+GO:1903507_negative regulation of nucleic acid-temp...	0	0	0	0	0	0	1	1	0
+GO:0051649_establishment of localization in cell	0	0	0	0	0	0	1	1	1
+GO:2000113_negative regulation of cellular macromol...	0	0	0	0	0	0	1	1	1
+GO:0031327_negative regulation of cellular biosynth...	0	0	0	0	0	0	1	1	1
+GO:0018209_peptidyl-serine modification	0	0	0	0	0	0	1	1	1
+GO:0045087_innate immune response	0	0	0	0	0	0	1	1	1
+GO:1902679_negative regulation of RNA biosynthetic ...	0	0	0	0	0	0	1	1	0
+GO:0010558_negative regulation of macromolecule bio...	0	0	0	0	0	0	1	1	1
+GO:0022406_membrane docking	0	0	0	0	0	0	1	0	0
+GO:0051641_cellular localization	0	0	0	0	0	0	1	0	0
+GO:0033554_cellular response to stress	0	0	0	0	0	0	1	1	1
+GO:0051253_negative regulation of RNA metabolic pro...	0	0	0	0	0	0	1	1	1
+GO:0048583_regulation of response to stimulus	0	0	0	0	0	0	1	0	1
+GO:0097305_response to alcohol	0	0	0	0	0	0	1	0	0
+GO:0009890_negative regulation of biosynthetic proc...	0	0	0	0	0	0	1	1	0
+GO:0040007_growth	0	0	0	0	0	0	1	0	1
+GO:0030004_cellular monovalent inorganic cation hom...	0	0	0	0	0	0	1	0	0
+GO:0031347_regulation of defense response	0	0	0	0	0	0	1	1	1
+GO:0023052_signaling	0	0	0	0	0	0	1	1	1
+GO:0018105_peptidyl-serine phosphorylation	0	0	0	0	0	0	1	0	0
+GO:0050684_regulation of mRNA processing	0	0	0	0	0	0	1	0	0
+GO:0010035_response to inorganic substance	0	0	0	0	0	0	1	0	0
+GO:0043170_macromolecule metabolic process	0	0	0	0	0	0	1	1	1
+GO:0070646_protein modification by small protein re...	0	0	0	0	0	0	1	0	1
+GO:0010118_stomatal movement	0	0	0	0	0	0	1	0	0
+GO:0007018_microtubule-based movement	0	0	0	0	0	0	1	1	1
+GO:0045934_negative regulation of nucleobase-contai...	0	0	0	0	0	0	1	1	1
+GO:0055067_monovalent inorganic cation homeostasis	0	0	0	0	0	0	1	0	0
+GO:0045892_negative regulation of transcription, DN...	0	0	0	0	0	0	1	0	0
+GO:0010608_posttranscriptional regulation of gene e...	0	0	0	0	0	0	1	0	0
+GO:0019222_regulation of metabolic process	0	0	0	0	0	0	1	1	1
+GO:0046907_intracellular transport	0	0	0	0	0	0	1	0	0
+GO:0016049_cell growth	0	0	0	0	0	0	1	0	1
+GO:0006259_DNA metabolic process	0	0	0	0	0	0	1	1	1
+GO:0051128_regulation of cellular component organiz...	0	0	0	0	0	0	1	0	0
+GO:0006757_ATP generation from ADP	0	0	0	0	0	0	1	1	1
+GO:0080134_regulation of response to stress	0	0	0	0	0	0	1	0	0
+GO:0048523_negative regulation of cellular process	0	0	0	0	0	0	1	1	0
+GO:0000003_reproduction	0	0	0	0	0	0	1	1	1
+GO:0009615_response to virus	0	0	0	0	0	0	1	1	1
+GO:0048856_anatomical structure development	0	0	0	0	0	0	1	0	0
+GO:0046686_response to cadmium ion	0	0	0	0	0	0	1	0	0
+GO:0030203_glycosaminoglycan metabolic process	0	0	0	0	0	0	1	0	0
+GO:0022414_reproductive process	0	0	0	0	0	0	1	1	1
+GO:0050794_regulation of cellular process	0	0	0	0	0	0	1	1	1
+GO:0006006_glucose metabolic process	0	0	0	0	0	0	1	0	0
+GO:0019637_organophosphate metabolic process	0	0	0	0	0	0	1	0	0
+GO:0006090_pyruvate metabolic process	0	0	0	0	0	0	1	0	0
+GO:0006914_autophagy	0	0	0	0	0	0	1	0	0
+GO:0006457_protein folding	0	0	0	0	0	0	1	0	0
+GO:0051656_establishment of organelle localization	0	0	0	0	0	0	1	1	1
+GO:0007165_signal transduction	0	0	0	0	0	0	1	0	1
+GO:1905634_regulation of protein localization to ch...	0	0	0	0	0	0	1	0	0
+GO:0010119_regulation of stomatal movement	0	0	0	0	0	0	1	0	0
+GO:0043484_regulation of RNA splicing	0	0	0	0	0	0	1	0	0
+GO:0016036_cellular response to phosphate starvatio...	0	0	0	0	0	0	1	0	0
+GO:0009606_tropism	0	0	0	0	0	0	1	1	1
+GO:0031324_negative regulation of cellular metaboli...	0	0	0	0	0	0	1	0	0
+GO:0044403_symbiotic process	0	0	0	0	0	0	1	0	0
+GO:0071805_potassium ion transmembrane transport	0	0	0	0	0	0	1	0	0
+GO:0010038_response to metal ion	0	0	0	0	0	0	1	0	0
+GO:0000910_cytokinesis	0	0	0	0	0	0	1	0	0
+GO:0006897_endocytosis	0	0	0	0	0	0	1	0	0
+GO:0015977_carbon fixation	0	0	0	0	0	0	1	0	0
+GO:0009738_abscisic acid-activated signaling pathwa...	0	0	0	0	0	0	1	0	0
+GO:0050657_nucleic acid transport	0	0	0	0	0	0	1	0	1
+GO:1903311_regulation of mRNA metabolic process	0	0	0	0	0	0	1	0	0
+GO:0043087_regulation of GTPase activity	0	0	0	0	0	0	1	0	0
+GO:0046903_secretion	0	0	0	0	0	0	1	0	0
+GO:0009790_embryo development	0	0	0	0	0	0	1	0	0
+GO:0140029_exocytic process	0	0	0	0	0	0	1	0	0
+GO:0006325_chromatin organization	0	0	0	0	0	0	1	1	1
+GO:0009132_nucleoside diphosphate metabolic process	0	0	0	0	0	0	1	0	0
+GO:0006139_nucleobase-containing compound metabolic...	0	0	0	0	0	0	1	1	1
+GO:0051236_establishment of RNA localization	0	0	0	0	0	0	1	0	0
+GO:1900150_regulation of defense response to fungus	0	0	0	0	0	0	1	1	1
+GO:0009791_post-embryonic development	0	0	0	0	0	0	1	0	0
+GO:0051017_actin filament bundle assembly	0	0	0	0	0	0	1	0	0
+GO:0035821_modulation of process of other organism	0	0	0	0	0	0	1	0	1
+GO:0070988_demethylation	0	0	0	0	0	0	1	0	0
+GO:0051607_defense response to virus	0	0	0	0	0	0	1	1	1
+GO:0048511_rhythmic process	0	0	0	0	0	0	1	1	1
+GO:0009414_response to water deprivation	0	0	0	0	0	0	1	0	0
+GO:0061572_actin filament bundle organization	0	0	0	0	0	0	1	0	1
+GO:0008152_metabolic process	0	0	0	0	0	0	0	1	1
+GO:0002229_defense response to oomycetes	0	0	0	0	0	0	0	1	1
+GO:0002239_response to oomycetes	0	0	0	0	0	0	0	1	1
+GO:0032774_RNA biosynthetic process	0	0	0	0	0	0	0	1	1
+GO:2000112_regulation of cellular macromolecule bio...	0	0	0	0	0	0	0	1	1
+GO:0031326_regulation of cellular biosynthetic proc...	0	0	0	0	0	0	0	1	1
+GO:0010468_regulation of gene expression	0	0	0	0	0	0	0	1	1
+GO:0031323_regulation of cellular metabolic process	0	0	0	0	0	0	0	1	1
+GO:0006974_cellular response to DNA damage stimulus	0	0	0	0	0	0	0	1	0
+GO:0071824_protein-DNA complex subunit organization	0	0	0	0	0	0	0	1	0
+GO:0009889_regulation of biosynthetic process	0	0	0	0	0	0	0	1	1
+GO:1903046_meiotic cell cycle process	0	0	0	0	0	0	0	1	0
+GO:0046856_phosphatidylinositol dephosphorylation	0	0	0	0	0	0	0	1	0
+GO:0000165_MAPK cascade	0	0	0	0	0	0	0	1	1
+GO:0031497_chromatin assembly	0	0	0	0	0	0	0	1	0
+GO:0048518_positive regulation of biological proces...	0	0	0	0	0	0	0	1	1
+GO:0006816_calcium ion transport	0	0	0	0	0	0	0	1	0
+GO:0051252_regulation of RNA metabolic process	0	0	0	0	0	0	0	1	1
+GO:0009311_oligosaccharide metabolic process	0	0	0	0	0	0	0	1	1
+GO:0046839_phospholipid dephosphorylation	0	0	0	0	0	0	0	1	0
+GO:0051321_meiotic cell cycle	0	0	0	0	0	0	0	1	0
+GO:0051276_chromosome organization	0	0	0	0	0	0	0	1	0
+GO:0065004_protein-DNA complex assembly	0	0	0	0	0	0	0	1	0
+GO:0042221_response to chemical	0	0	0	0	0	0	0	1	1
+GO:0052546_cell wall pectin metabolic process	0	0	0	0	0	0	0	0	1
+GO:0010556_regulation of macromolecule biosynthetic...	0	0	0	0	0	0	0	0	1
+GO:0006403_RNA localization	0	0	0	0	0	0	0	0	1
+GO:0080090_regulation of primary metabolic process	0	0	0	0	0	0	0	0	1
