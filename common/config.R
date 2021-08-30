@@ -16,17 +16,15 @@ significance_base_path <- file.path(base_path, 'results/topGo_may2021/alternativ
 
 go_terms_out_base_path <- file.path(base_path, 'data/results_topgo')
 
-go_terms_lists_base_path <- file.path(base_path, 'results/listas_202105')
+go_terms_lists_base_path <- file.path(base_path, 'data', 'lists_by_groups')
 
-genes_proportion_tables_base_path <- file.path(base_path, 'results/genes_proportions_202106')
+genes_proportion_tables_base_path <- file.path(base_path, 'data', 'lists_by_groups')
 
+plots_base_path <- file.path(base_path, 'data', 'results_semantic_similarity')
 
-#plots_base_path <- file.path(base_path, 'results/topGo_may2021/alternative/plots_fig4')
-plots_base_path <- file.path(base_path, 'results/topGo_may2021/alternative/plots_fig2')
+ss_base_path <- file.path(base_path, 'data', 'results_semantic_similarity')
 
-ss_base_path <- file.path(base_path, 'results/topGo_may2021/alternative/mix_topGO_ViSEAGO')
-
-annotations_custom_file_path <- file.path(data_base_path, "topgo_viseago_custom_annotations.txt")
+annotations_custom_file_path <- file.path(base_path, "data/topgo_viseago_custom_annotations.txt")
 
 # CONSTANTS
 

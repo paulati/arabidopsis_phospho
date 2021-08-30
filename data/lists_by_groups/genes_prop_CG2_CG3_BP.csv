@@ -1,0 +1,44 @@
+group_id	ontology	go_id	go_term	genome_genes_count	et_genes_count	proportion	percentage
+CG2_CG3	BP	GO:0010467	gene expression	4026	219	0.0543964232488823	5.4
+CG2_CG3	BP	GO:0060255	regulation of macromolecule metabolic process	3022	175	0.0579086697551291	5.8
+CG2_CG3	BP	GO:0034641	cellular nitrogen compound metabolic process	5322	248	0.0465990229237129	4.7
+CG2_CG3	BP	GO:0051171	regulation of nitrogen compound metabolic process	2758	156	0.056562726613488	5.7
+CG2_CG3	BP	GO:0065007	biological regulation	6076	325	0.0534891375905201	5.3
+CG2_CG3	BP	GO:0019222	regulation of metabolic process	3280	188	0.0573170731707317	5.7
+CG2_CG3	BP	GO:0050789	regulation of biological process	5413	293	0.0541289488268982	5.4
+CG2_CG3	BP	GO:0080090	regulation of primary metabolic process	2825	163	0.0576991150442478	5.8
+CG2_CG3	BP	GO:0006807	nitrogen compound metabolic process	8939	362	0.0404966998545699	4
+CG2_CG3	BP	GO:0043170	macromolecule metabolic process	8354	351	0.0420158008139813	4.2
+CG2_CG3	BP	GO:0050794	regulation of cellular process	4801	255	0.053113934596959	5.3
+CG2_CG3	BP	GO:0031323	regulation of cellular metabolic process	2974	168	0.0564895763281775	5.6
+CG2_CG3	BP	GO:0006139	nucleobase-containing compound metabolic process	4314	209	0.0484469170143718	4.8
+CG2_CG3	BP	GO:0051641	cellular localization	965	79	0.0818652849740933	8.2
+CG2_CG3	BP	GO:0046907	intracellular transport	699	62	0.0886981402002861	8.9
+CG2_CG3	BP	GO:0033036	macromolecule localization	1251	86	0.0687450039968026	6.9
+CG2_CG3	BP	GO:0051649	establishment of localization in cell	742	69	0.0929919137466307	9.3
+CG2_CG3	BP	GO:0010605	negative regulation of macromolecule metabolic process	668	62	0.092814371257485	9.3
+CG2_CG3	BP	GO:0016071	mRNA metabolic process	561	57	0.101604278074866	10.2
+CG2_CG3	BP	GO:0010608	posttranscriptional regulation of gene expression	271	32	0.118081180811808	11.8
+CG2_CG3	BP	GO:0010629	negative regulation of gene expression	547	55	0.10054844606947	10.1
+CG2_CG3	BP	GO:0009892	negative regulation of metabolic process	720	64	0.0888888888888889	8.9
+CG2_CG3	BP	GO:0048519	negative regulation of biological process	1128	89	0.0789007092198582	7.9
+CG2_CG3	BP	GO:0050896	response to stimulus	6130	301	0.0491027732463295	4.9
+CG2_CG3	BP	GO:0006396	RNA processing	882	77	0.0873015873015873	8.7
+CG2_CG3	BP	GO:0097305	response to alcohol	620	64	0.103225806451613	10.3
+CG2_CG3	BP	GO:0009737	response to abscisic acid	616	63	0.102272727272727	10.2
+CG2_CG3	BP	GO:0033993	response to lipid	835	72	0.0862275449101796	8.6
+CG2_CG3	BP	GO:1903311	regulation of mRNA metabolic process	61	18	0.295081967213115	29.5
+CG2_CG3	BP	GO:0048523	negative regulation of cellular process	756	58	0.0767195767195767	7.7
+CG2_CG3	BP	GO:0009893	positive regulation of metabolic process	851	57	0.0669800235017626	6.7
+CG2_CG3	BP	GO:0051246	regulation of protein metabolic process	536	47	0.0876865671641791	8.8
+CG2_CG3	BP	GO:0043043	peptide biosynthetic process	755	43	0.056953642384106	5.7
+CG2_CG3	BP	GO:0031324	negative regulation of cellular metabolic process	499	41	0.0821643286573146	8.2
+CG2_CG3	BP	GO:0051172	negative regulation of nitrogen compound metabolic process	450	39	0.0866666666666667	8.7
+CG2_CG3	BP	GO:0032268	regulation of cellular protein metabolic process	519	45	0.0867052023121387	8.7
+CG2_CG3	BP	GO:0031327	negative regulation of cellular biosynthetic process	366	31	0.0846994535519126	8.5
+CG2_CG3	BP	GO:0045184	establishment of protein localization	870	68	0.0781609195402299	7.8
+CG2_CG3	BP	GO:0031399	regulation of protein modification process	260	26	0.1	10
+CG2_CG3	BP	GO:0016192	vesicle-mediated transport	499	45	0.0901803607214429	9
+CG2_CG3	BP	GO:0050684	regulation of mRNA processing	44	17	0.386363636363636	38.6
+CG2_CG3	BP	GO:0043484	regulation of RNA splicing	40	17	0.425	42.5
+CG2_CG3	BP	GO:0048024	regulation of mRNA splicing, via spliceosome	33	16	0.484848484848485	48.5

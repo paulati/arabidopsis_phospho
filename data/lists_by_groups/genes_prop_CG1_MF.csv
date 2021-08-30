@@ -1,0 +1,47 @@
+group_id	ontology	go_id	go_term	genome_genes_count	et_genes_count	proportion	percentage
+CG1	MF	GO:0140110	transcription regulator activity	1738	61	0.0350978135788262	3.5
+CG1	MF	GO:0097159	organic cyclic compound binding	7396	335	0.0452947539210384	4.5
+CG1	MF	GO:1901363	heterocyclic compound binding	7377	335	0.0454114138538701	4.5
+CG1	MF	GO:0005524	ATP binding	2451	104	0.0424316605467156	4.2
+CG1	MF	GO:0017076	purine nucleotide binding	2837	119	0.0419457173070144	4.2
+CG1	MF	GO:0032559	adenyl ribonucleotide binding	2553	106	0.0415197806502154	4.2
+CG1	MF	GO:0097367	carbohydrate derivative binding	2899	119	0.0410486374611935	4.1
+CG1	MF	GO:0036094	small molecule binding	3384	130	0.0384160756501182	3.8
+CG1	MF	GO:0043168	anion binding	3364	140	0.0416171224732461	4.2
+CG1	MF	GO:1901265	nucleoside phosphate binding	3172	127	0.0400378310214376	4
+CG1	MF	GO:0035639	purine ribonucleoside triphosphate binding	2725	116	0.0425688073394495	4.3
+CG1	MF	GO:0043167	ion binding	6540	252	0.0385321100917431	3.9
+CG1	MF	GO:0032553	ribonucleotide binding	2858	118	0.0412876137158852	4.1
+CG1	MF	GO:0000166	nucleotide binding	3172	127	0.0400378310214376	4
+CG1	MF	GO:0030554	adenyl nucleotide binding	2560	107	0.041796875	4.2
+CG1	MF	GO:0008047	enzyme activator activity	141	16	0.113475177304965	11.3
+CG1	MF	GO:0005516	calmodulin binding	184	13	0.0706521739130435	7.1
+CG1	MF	GO:0016740	transferase activity	4149	109	0.0262713906965534	2.6
+CG1	MF	GO:0016772	transferase activity, transferring phosphorus-containing groups	1756	65	0.0370159453302961	3.7
+CG1	MF	GO:0016301	kinase activity	1486	61	0.041049798115747	4.1
+CG1	MF	GO:0004674	protein serine/threonine kinase activity	909	39	0.0429042904290429	4.3
+CG1	MF	GO:0004672	protein kinase activity	1119	46	0.0411081322609473	4.1
+CG1	MF	GO:0016773	phosphotransferase activity, alcohol group as acceptor	1275	51	0.04	4
+CG1	MF	GO:0140096	catalytic activity, acting on a protein	2637	90	0.0341296928327645	3.4
+CG1	MF	GO:0008270	zinc ion binding	657	23	0.0350076103500761	3.5
+CG1	MF	GO:0005216	ion channel activity	149	2	0.0134228187919463	1.3
+CG1	MF	GO:0060089	molecular transducer activity	309	8	0.0258899676375405	2.6
+CG1	MF	GO:0038023	signaling receptor activity	280	8	0.0285714285714286	2.9
+CG1	MF	GO:0042802	identical protein binding	340	18	0.0529411764705882	5.3
+CG1	MF	GO:0042803	protein homodimerization activity	194	9	0.0463917525773196	4.6
+CG1	MF	GO:0003682	chromatin binding	161	18	0.111801242236025	11.2
+CG1	MF	GO:0042578	phosphoric ester hydrolase activity	389	11	0.0282776349614396	2.8
+CG1	MF	GO:0005085	guanyl-nucleotide exchange factor activity	50	3	0.06	6
+CG1	MF	GO:0051020	GTPase binding	123	10	0.0813008130081301	8.1
+CG1	MF	GO:0008092	cytoskeletal protein binding	300	29	0.0966666666666667	9.7
+CG1	MF	GO:0015399	primary active transmembrane transporter activity	200	8	0.04	4
+CG1	MF	GO:0005261	cation channel activity	104	1	0.00961538461538462	1
+CG1	MF	GO:0016759	cellulose synthase activity	27	3	0.111111111111111	11.1
+CG1	MF	GO:0016760	cellulose synthase (UDP-forming) activity	27	3	0.111111111111111	11.1
+CG1	MF	GO:0003724	RNA helicase activity	36	2	0.0555555555555556	5.6
+CG1	MF	GO:0052866	phosphatidylinositol phosphate phosphatase activity	28	1	0.0357142857142857	3.6
+CG1	MF	GO:0016799	hydrolase activity, hydrolyzing N-glycosyl compounds	137	0	0	0
+CG1	MF	GO:0042393	histone binding	98	9	0.0918367346938776	9.2
+CG1	MF	GO:0003887	DNA-directed DNA polymerase activity	26	0	0	0
+CG1	MF	GO:0140030	modification-dependent protein binding	49	4	0.0816326530612245	8.2
+CG1	MF	GO:0000978	RNA polymerase II cis-regulatory region sequence-specific DNA binding	41	3	0.0731707317073171	7.3

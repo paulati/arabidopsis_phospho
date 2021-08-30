@@ -1,0 +1,8 @@
+group_id	ontology	go_id	go_term	genome_genes_count	et_genes_count	proportion	percentage
+CG2_CG3	MF	GO:0003676	nucleic acid binding	4045	223	0.0551297898640297	5.5
+CG2_CG3	MF	GO:0005488	binding	13302	584	0.0439031724552699	4.4
+CG2_CG3	MF	GO:0003723	RNA binding	1390	119	0.0856115107913669	8.6
+CG2_CG3	MF	GO:0003729	mRNA binding	418	67	0.160287081339713	16
+CG2_CG3	MF	GO:0004712	protein serine/threonine/tyrosine kinase activity	59	11	0.186440677966102	18.6
+CG2_CG3	MF	GO:0005507	copper ion binding	199	19	0.0954773869346734	9.5
+CG2_CG3	MF	GO:0030276	clathrin binding	37	11	0.297297297297297	29.7

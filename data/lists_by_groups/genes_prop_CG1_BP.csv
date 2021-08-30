@@ -1,0 +1,70 @@
+group_id	ontology	go_id	go_term	genome_genes_count	et_genes_count	proportion	percentage
+CG1	BP	GO:0044237	cellular metabolic process	10480	401	0.038263358778626	3.8
+CG1	BP	GO:0009987	cellular process	14843	582	0.0392104022097959	3.9
+CG1	BP	GO:0071704	organic substance metabolic process	10988	401	0.0364943574808882	3.6
+CG1	BP	GO:0044238	primary metabolic process	10252	382	0.037261022239563	3.7
+CG1	BP	GO:0044260	cellular macromolecule metabolic process	6854	283	0.0412897578056609	4.1
+CG1	BP	GO:0008152	metabolic process	12346	427	0.0345861007613802	3.5
+CG1	BP	GO:2000112	regulation of cellular macromolecule biosynthetic process	2329	115	0.0493774151996565	4.9
+CG1	BP	GO:0032774	RNA biosynthetic process	2273	102	0.0448746150461945	4.5
+CG1	BP	GO:0010468	regulation of gene expression	2589	148	0.0571649285438393	5.7
+CG1	BP	GO:0031326	regulation of cellular biosynthetic process	2432	122	0.0501644736842105	5
+CG1	BP	GO:0009889	regulation of biosynthetic process	2458	122	0.0496338486574451	5
+CG1	BP	GO:0010556	regulation of macromolecule biosynthetic process	2338	115	0.0491873396065013	4.9
+CG1	BP	GO:0051252	regulation of RNA metabolic process	2176	114	0.0523897058823529	5.2
+CG1	BP	GO:0051234	establishment of localization	2721	136	0.0499816244027931	5
+CG1	BP	GO:0032502	developmental process	3189	148	0.0464095327688931	4.6
+CG1	BP	GO:0032501	multicellular organismal process	2953	133	0.0450389434473417	4.5
+CG1	BP	GO:0000003	reproduction	1798	80	0.0444938820912125	4.4
+CG1	BP	GO:0022414	reproductive process	1789	80	0.0447177193963108	4.5
+CG1	BP	GO:0007049	cell cycle	651	45	0.0691244239631336	6.9
+CG1	BP	GO:0045087	innate immune response	351	26	0.0740740740740741	7.4
+CG1	BP	GO:0022402	cell cycle process	470	26	0.0553191489361702	5.5
+CG1	BP	GO:0051301	cell division	418	33	0.0789473684210526	7.9
+CG1	BP	GO:0009615	response to virus	82	7	0.0853658536585366	8.5
+CG1	BP	GO:0051607	defense response to virus	51	3	0.0588235294117647	5.9
+CG1	BP	GO:0035821	modulation of process of other organism	21	1	0.0476190476190476	4.8
+CG1	BP	GO:0006793	phosphorus metabolic process	2316	92	0.0397236614853195	4
+CG1	BP	GO:0009628	response to abiotic stimulus	2091	130	0.0621712099473936	6.2
+CG1	BP	GO:0042221	response to chemical	3023	176	0.058220310949388	5.8
+CG1	BP	GO:0048511	rhythmic process	147	15	0.102040816326531	10.2
+CG1	BP	GO:2000113	negative regulation of cellular macromolecule biosynthetic process	345	29	0.0840579710144927	8.4
+CG1	BP	GO:0019538	protein metabolic process	4350	169	0.0388505747126437	3.9
+CG1	BP	GO:0010558	negative regulation of macromolecule biosynthetic process	347	29	0.0835734870317003	8.4
+CG1	BP	GO:0016310	phosphorylation	1576	67	0.04251269035533	4.3
+CG1	BP	GO:0006757	ATP generation from ADP	72	7	0.0972222222222222	9.7
+CG1	BP	GO:0006468	protein phosphorylation	1222	51	0.0417348608837971	4.2
+CG1	BP	GO:0036211	protein modification process	2849	110	0.0386100386100386	3.9
+CG1	BP	GO:0006464	cellular protein modification process	2849	110	0.0386100386100386	3.9
+CG1	BP	GO:0051716	cellular response to stimulus	2856	129	0.0451680672268908	4.5
+CG1	BP	GO:0033554	cellular response to stress	1017	56	0.0550639134709931	5.5
+CG1	BP	GO:0043412	macromolecule modification	3258	117	0.0359116022099447	3.6
+CG1	BP	GO:0023052	signaling	1839	76	0.0413268080478521	4.1
+CG1	BP	GO:0007165	signal transduction	1797	76	0.0422927100723428	4.2
+CG1	BP	GO:0042886	amide transport	901	67	0.074361820199778	7.4
+CG1	BP	GO:0042742	defense response to bacterium	419	31	0.0739856801909308	7.4
+CG1	BP	GO:0009617	response to bacterium	490	33	0.0673469387755102	6.7
+CG1	BP	GO:0048583	regulation of response to stimulus	677	44	0.0649926144756278	6.5
+CG1	BP	GO:0006325	chromatin organization	435	37	0.0850574712643678	8.5
+CG1	BP	GO:0031347	regulation of defense response	237	19	0.080168776371308	8
+CG1	BP	GO:1900150	regulation of defense response to fungus	33	5	0.151515151515152	15.2
+CG1	BP	GO:0007017	microtubule-based process	222	17	0.0765765765765766	7.7
+CG1	BP	GO:0040007	growth	629	34	0.0540540540540541	5.4
+CG1	BP	GO:0051253	negative regulation of RNA metabolic process	290	26	0.0896551724137931	9
+CG1	BP	GO:0016049	cell growth	378	25	0.0661375661375661	6.6
+CG1	BP	GO:0045934	negative regulation of nucleobase-containing compound metabolic process	307	27	0.0879478827361563	8.8
+CG1	BP	GO:0000165	MAPK cascade	32	1	0.03125	3.1
+CG1	BP	GO:0006259	DNA metabolic process	544	27	0.0496323529411765	5
+CG1	BP	GO:0061572	actin filament bundle organization	23	3	0.130434782608696	13
+CG1	BP	GO:0006928	movement of cell or subcellular component	101	6	0.0594059405940594	5.9
+CG1	BP	GO:0007018	microtubule-based movement	69	5	0.072463768115942	7.2
+CG1	BP	GO:0051640	organelle localization	163	22	0.134969325153374	13.5
+CG1	BP	GO:0070646	protein modification by small protein removal	81	7	0.0864197530864197	8.6
+CG1	BP	GO:0006403	RNA localization	104	14	0.134615384615385	13.5
+CG1	BP	GO:0050657	nucleic acid transport	96	14	0.145833333333333	14.6
+CG1	BP	GO:0002239	response to oomycetes	99	1	0.0101010101010101	1
+CG1	BP	GO:0018209	peptidyl-serine modification	82	9	0.109756097560976	11
+CG1	BP	GO:0009606	tropism	123	7	0.0569105691056911	5.7
+CG1	BP	GO:0052546	cell wall pectin metabolic process	53	1	0.0188679245283019	1.9
+CG1	BP	GO:0009311	oligosaccharide metabolic process	101	5	0.0495049504950495	5
+CG1	BP	GO:0002229	defense response to oomycetes	78	0	0	0
