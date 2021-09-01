@@ -1,4 +1,6 @@
-base_path <- '/u01/home/paula/arabidopsis/github/arabidopsis_phospho'
+current_working_dir <- dirname(rstudioapi::getActiveDocumentContext()$path)
+base_path <- dirname(current_working_dir)
+
 source(file.path(base_path, 'common', 'config.R'))
 source(file.path(base_path, 'topgo', 'topgo_alternative.R'))
 source(file.path(base_path, 'topgo', 'annotations.R'))
@@ -168,6 +170,18 @@ go_terms_enrichment <- function(ontologies, comparisons, out_file_prefix = '') {
   
   for (ontology in ontologies) {
   
+    if(! dir.exists(go_terms_out_base_path)) {
+      dir.create(go_terms_out_base_path, showWarnings = FALSE)
+    }
+    result_out_base_path <- file.path(go_terms_out_base_path, out_file_prefix)  
+    if(! dir.exists(result_out_base_path)) {
+      dir.create(result_out_base_path, showWarnings = FALSE)
+    }
+    result_out_base_path <- file.path(result_out_base_path, tolower(ontology))
+    if(! dir.exists(result_out_base_path)) {
+      dir.create(result_out_base_path, showWarnings = FALSE)
+    }
+    
     for (comparison in comparisons) {
       
       sample_file_path <- file.path(data_base_path, sample_file_names[comparison])
@@ -175,9 +189,11 @@ go_terms_enrichment <- function(ontologies, comparisons, out_file_prefix = '') {
       ontology_comparison <- prepare_topGO_data(ontology, comparison, description, sample_file_path, population_file_path)
       
       result_out_file_name <- paste0(out_file_prefix, '_', tolower(ontology), '_', comparison, '.csv')
-      result_out_file_path <- file.path(go_terms_out_base_path, result_out_file_name)
+      
+
+      result_out_file_path <- file.path(result_out_base_path, result_out_file_name)
       ontology_parentchild_comparison_obj <- run_test_topGO(ontology_comparison, result_out_file_path, alternative)
-      ontology_parentchild_comparison <- ontology_parentchild_comparison$ontology_parentchild_df
+      ontology_parentchild_comparison <- ontology_parentchild_comparison_obj$ontology_parentchild_df
     
       significant_terms_mask <- ontology_parentchild_comparison$parentchildFisher_fdr < 0.01
       significant_terms_data <- ontology_parentchild_comparison[significant_terms_mask, c('GO.ID', 'Term')]
@@ -194,7 +210,8 @@ go_terms_enrichment <- function(ontologies, comparisons, out_file_prefix = '') {
   go_terms_matrix <- build_go_terms_matrix(significant_terms)
  
   go_terms_matrix_file_name <- paste0(out_file_prefix, '_', go_terms_matrix_base_file_name, '.csv')
-  go_terms_matrix_file_path <- file.path(go_terms_out_base_path, go_terms_matrix_file_name)
+  go_terms_matrix_base_path <- file.path(go_terms_out_base_path, out_file_prefix)
+  go_terms_matrix_file_path <- file.path(go_terms_matrix_base_path, go_terms_matrix_file_name)
   write.table(x = go_terms_matrix, file = go_terms_matrix_file_path, sep = "\t",
             col.names = TRUE, row.names = TRUE, quote = FALSE)
    
@@ -223,4 +240,6 @@ fig3_enrichment <- function() {
 
 }
 
+# fig2_enrichment()
 
+# fig3_enrichment()

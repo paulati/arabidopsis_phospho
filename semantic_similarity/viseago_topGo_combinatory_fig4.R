@@ -1,6 +1,7 @@
-base_path <- '/u01/home/paula/arabidopsis/github/arabidopsis_phospho'
+current_working_dir <- dirname(rstudioapi::getActiveDocumentContext()$path)
+base_path <- dirname(current_working_dir)
 source(file.path(base_path, 'common', 'config.R'))
-source(file.path(base_path, 'semantic_similarity', 'mix_viseago_topGo_combinatory.R'))
+source(file.path(base_path, 'semantic_similarity', 'viseago_topGo_combinatory.R'))
 
 plot_ontology <- function(ontology, show_legend) {
 
@@ -73,4 +74,8 @@ fig4_supp <- function() {
   #api_create(fig, filename = file_name)
   
 }
+
+
+# fig4_body()
+# fig4_supp()
 

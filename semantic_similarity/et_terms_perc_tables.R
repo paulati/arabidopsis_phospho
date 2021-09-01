@@ -1,4 +1,5 @@
-base_path <- '/u01/home/paula/arabidopsis/github/arabidopsis_phospho'
+current_working_dir <- dirname(rstudioapi::getActiveDocumentContext()$path)
+base_path <- dirname(current_working_dir)
 source(file.path(base_path, 'common', 'config.R'))
 
 library(GO.db)
@@ -82,6 +83,9 @@ build_perc_file <- function(et_data, group_id, group_file_name) {
     result$percentage <- round(result$proportion *100, 1)
     
     file_name <- paste0("genes_prop_", group_id, "_", ontology, ".csv")
+    if(! dir.exists(genes_proportion_tables_base_path)) {
+      dir.create(genes_proportion_tables_base_path, showWarnings = FALSE)
+    }
     file_path <- file.path(genes_proportion_tables_base_path, file_name)
     write.table(result, file_path, sep="\t", quote = FALSE, row.names = FALSE, col.names = TRUE)
     
@@ -108,3 +112,6 @@ build_perc_files <- function() {
   build_perc_file(et_data, group_id, group_1_et_file_name)
   
 }
+
+
+# build_perc_files()

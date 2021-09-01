@@ -3,7 +3,8 @@
 # * Viseago semantic similarity analysis
 #---------------------------------------------------
 
-base_path <- '/u01/home/paula/arabidopsis/github/arabidopsis_phospho'
+current_working_dir <- dirname(rstudioapi::getActiveDocumentContext()$path)
+base_path <- dirname(current_working_dir)
 source(file.path(base_path, 'common', 'config.R'))
 
 library(ViSEAGO)
@@ -185,6 +186,8 @@ build_custom_annotations <- function() {
 
 }
 
+
+# build_custom_annotations()
 
 #--------------------------------------------------
 

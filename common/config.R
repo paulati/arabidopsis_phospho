@@ -2,7 +2,8 @@
 
 # CONFIGURATION
 
-base_path <- '/u01/home/paula/arabidopsis/github/arabidopsis_phospho'
+#base_path <- '/u01/home/paula/arabidopsis/github/arabidopsis_phospho'
+base_path <- '/media/paulati/Nuevo vol/paula/ingebi/2020/agustina_mazzella/github/arabidopsis_phospho'
 
 annotations_base_path <- file.path(base_path, 'data') 
 
